@@ -1,0 +1,26 @@
+C:\Users\skola\AppData\Local\Temporary Projects\TempConv\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skola\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.Form1.resources
+C:\Users\skola\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.Properties.Resources.resources
+C:\Users\skola\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.csproj.GenerateResource.Cache
+C:\Users\skola\AppData\Local\Temporary Projects\TempConv\bin\Debug\TempConv.exe
+C:\Users\skola\AppData\Local\Temporary Projects\TempConv\bin\Debug\TempConv.pdb
+C:\Users\skola\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.exe
+C:\Users\skola\AppData\Local\Temporary Projects\TempConv\obj\Debug\TempConv.pdb
+C:\Users\skola\Desktop\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.exe
+C:\Users\skola\Desktop\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.pdb
+C:\Users\skola\Desktop\praksa\tempconv\TempConv\TempConv\bin\Debug\TempConv.exe
+C:\Users\skola\Desktop\praksa\tempconv\TempConv\TempConv\bin\Debug\TempConv.pdb
+C:\Users\skola\Desktop\praksa\tempconv\TempConv\TempConv\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skola\Desktop\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.Form1.resources
+C:\Users\skola\Desktop\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.Properties.Resources.resources
+C:\Users\skola\Desktop\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.csproj.GenerateResource.Cache
+D:\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.exe
+D:\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.pdb
+D:\praksa\tempconv\TempConv\TempConv\bin\Debug\TempConv.exe
+D:\praksa\tempconv\TempConv\TempConv\bin\Debug\TempConv.pdb
+D:\praksa\tempconv\TempConv\TempConv\obj\Debug\ResolveAssemblyReference.cache
+D:\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.Form1.resources
+D:\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.Properties.Resources.resources
+D:\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.csproj.GenerateResource.Cache
+E:\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.exe
+E:\praksa\tempconv\TempConv\TempConv\obj\Debug\TempConv.pdb
